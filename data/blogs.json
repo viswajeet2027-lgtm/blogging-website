@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "My Journey Learning JavaScript",
+        "author": "Vishu",
+        "category": "Programming",
+        "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479",
+        "description": "My experience learning JavaScript and building my first interactive website.",
+        "likes": 15
+    },
+    {
+        "id": 2,
+        "title": "Why Technology Is Important",
+        "author": "Rahul",
+        "category": "Technology",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        "description": "Technology has changed the way we learn, communicate and work.",
+        "likes": 21
+    },
+    {
+        "id": 3,
+        "title": "A Trip I Will Never Forget",
+        "author": "Aman",
+        "category": "Travel",
+        "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7",
+        "description": "A memorable journey and the experiences I had along the way.",
+        "likes": 18
+    }
+]
